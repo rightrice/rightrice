@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rightrice
 - 👀 I’m interested in cryptocurrency, jetskiing, and building a more secure internet :)
 - 🌱 I’m currently studying for my bachelors in cybersecurity
-- 💞️ I’m looking to collaborate on an RPI router with a built in firewall and switch
+- 💞️ I’m looking to collaborate on anything python related
 - 📫 How to reach me: rightrice@proton.me
 
 <!---
