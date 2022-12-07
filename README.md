@@ -1,3 +1,20 @@
+<a href="https://specchiocyber.com">
+    <img src="https://img.shields.io/badge/Website-specchiocyber.com-blueviolet?style=flat-square">
+</a> 
+
+<a href="https://specchiocyber.com/Alan-Specchio-Jr-Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-blueviolet?style=flat-square">
+</a>
+
+<a href="https://www.linkedin.com/in/alan-specchio/">
+    <img src="https://img.shields.io/badge/Profile-LinkedIn-blueviolet?style=flat-square">
+</a>
+
+<a href="https://twitter.com/rightrice607">
+    <img src="https://img.shields.io/badge/Profile-Twitter-blueviolet?style=flat-square">
+</a>
+
+
 - 👋 Hi, I’m @rightrice
 - 👀 I’m interested in cryptocurrency, jetskiing, and building a more secure internet :)
 - 🌱 I’m currently studying for my bachelors in cybersecurity
