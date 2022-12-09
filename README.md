@@ -22,7 +22,7 @@
 - 📫 How to reach me: rightrice@proton.me
 
 <a href="https://github.com/rightrice">
-    <src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=shades-of-purple">
+    <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=shades-of-purple">
 </a> 
 
 <!---
