@@ -19,7 +19,9 @@
 <a href="https://twitter.com/rightrice607" target="_blank">
     <img src="https://img.shields.io/badge/Profile-Twitter-blueviolet?style=flat-square">
 </a>
-<img src="https://img.shields.io/badge/Email-rightrice@proton.me-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white">
+<a href="mailto:rightrice@proton.me">    
+    <img src="https://img.shields.io/badge/Email-rightrice@proton.me-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white">
+</a>
 
 
 - 👋 Hi, I’m @rightrice
