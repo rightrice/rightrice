@@ -1,3 +1,4 @@
+<p align="center">
 <a href="https://specchiocyber.com">
     <img src="https://img.shields.io/badge/Website-specchiocyber.com-blueviolet?style=flat-square">
 </a> 
@@ -21,6 +22,8 @@
 - 💞️ I’m looking to collaborate on anything python related
 - 📫 How to reach me: rightrice@proton.me
 
+
+<p align="center">
 <a href="https://github.com/rightrice">
     <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=shades-of-purple">
 </a> 
