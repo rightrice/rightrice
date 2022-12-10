@@ -1,4 +1,9 @@
 <p align="center">
+<a href="https://github.com/rightrice">
+    <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=aura">
+</a>
+<hr>
+<p align="center">
 <a href="https://specchiocyber.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-specchiocyber.com-blueviolet?style=flat-square">
 </a> 
@@ -28,13 +33,8 @@
     <img src="https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Editor-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white">
     
-<hr>
-
+<hr> 
 <p align="center">
-<a href="https://github.com/rightrice">
-    <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=aura">
-</a>
-<br>    
 <a href="https://github.com/rightrice">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rightrice&hide=TeX&layout=compact&theme=aura">
 </a> 
