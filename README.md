@@ -32,11 +32,11 @@
 
 <p align="center">
 <a href="https://github.com/rightrice">
-    <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=shades-of-purple">
+    <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=aura">
 </a>
 <br>    
 <a href="https://github.com/rightrice">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rightrice&hide=TeX&layout=compact&theme=shades-of-purple">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rightrice&hide=TeX&layout=compact&theme=aura">
 </a> 
     
 
