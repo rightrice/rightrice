@@ -1,17 +1,17 @@
 <p align="center">
-<a href="https://specchiocyber.com">
+<a href="https://specchiocyber.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-specchiocyber.com-blueviolet?style=flat-square">
 </a> 
 
-<a href="https://specchiocyber.com/Alan-Specchio-Jr-Resume.pdf">
+<a href="https://specchiocyber.com/Alan-Specchio-Jr-Resume.pdf" target="_blank">>
     <img src="https://img.shields.io/badge/Resume-PDF-blueviolet?style=flat-square">
 </a>
 
-<a href="https://www.linkedin.com/in/alan-specchio/">
+<a href="https://www.linkedin.com/in/alan-specchio/" target="_blank">>
     <img src="https://img.shields.io/badge/Profile-LinkedIn-blueviolet?style=flat-square">
 </a>
 
-<a href="https://twitter.com/rightrice607">
+<a href="https://twitter.com/rightrice607" target="_blank">>
     <img src="https://img.shields.io/badge/Profile-Twitter-blueviolet?style=flat-square">
 </a>
 
