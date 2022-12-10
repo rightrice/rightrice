@@ -14,11 +14,12 @@
 <a href="https://twitter.com/rightrice607" target="_blank">
     <img src="https://img.shields.io/badge/Profile-Twitter-blueviolet?style=flat-square">
 </a>
+<img src="https://img.shields.io/badge/Email-rightrice@proton.me-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white">
 
 
 - 👋 Hi, I’m @rightrice
 - 👀 I’m interested in cryptocurrency, jetskiing, and building a more secure internet :)
-- 🌱 I’m currently studying for my bachelors in cybersecurity
+- 🌱 I’m currently studying for my bachelors in cybersecurity with a minor in Data Science at SUNY Canton College of Technology.
 - 💞️ I’m looking to collaborate on anything python related
 - 📫 How to reach me: rightrice@proton.me
 
