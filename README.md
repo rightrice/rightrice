@@ -28,10 +28,16 @@
 - 💞️ I’m looking to collaborate on anything python related
 - 📫 How to reach me: rightrice@proton.me
 
-    <p align="center">
+<p align="center">
+<a href="https://ubuntu.com/" target="_blank">        
     <img src="https://img.shields.io/badge/OS-Ubuntu%20Linux-blueviolet?style=flat-square&logo=linux&logoColor=white">
+</a>    
+<a href="https://microsoft.com" target="_blank">          
     <img src="https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows&logoColor=white">
+</a>    
+<a href="https://code.visualstudio.com/" target="_blank">          
     <img src="https://img.shields.io/badge/Editor-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white">
+</a>
     
 <hr> 
 <p align="center">
