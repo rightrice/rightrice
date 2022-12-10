@@ -23,6 +23,12 @@
 - 💞️ I’m looking to collaborate on anything python related
 - 📫 How to reach me: rightrice@proton.me
 
+    <p align="center">
+    <img src="https://img.shields.io/badge/OS-Ubuntu%20Linux-blueviolet?style=flat-square&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Editor-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white">
+    
+<hr>
 
 <p align="center">
 <a href="https://github.com/rightrice">
