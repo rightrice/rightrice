@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Website-specchiocyber.com-blueviolet?style=flat-square">
 </a> 
 
-<a href="https://drive.proton.me/urls/PXJSP83MYM#GwFwHUToJPjZ" target="_blank">
+<a href="https://drive.proton.me/urls/6ZSARGMMCC#3LOG1NT6QrZy" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-blueviolet?style=flat-square">
 </a>
 
