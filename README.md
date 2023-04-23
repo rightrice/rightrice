@@ -26,7 +26,7 @@
 
 - 👋 Hi, I’m @rightrice
 - 👀 I’m interested in cryptocurrency, jetskiing, and anything cybersecurity/coding related :)
-- 🌱 I’m currently studying for my bachelors in Cybersecurity at SUNY Canton College of Technology.
+- 🌱 I’m currently studying for my bachelors in Cybersecurity at SUNY Canton College of Technology while working in IT for an oil company.
 - 💞️ I’m looking to collaborate on anything python related
 - 📫 How to reach me: rightrice@proton.me
 
