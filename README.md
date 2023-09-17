@@ -5,7 +5,7 @@
 <hr>
 <p align="center">
 <a href="https://specchiocyber.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-specchiocyber.com-blueviolet?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-specchiocyber.com-%23bf3434?style=flat-square">
 </a> 
 
 <a href="https://drive.proton.me/urls/6ZSARGMMCC#3LOG1NT6QrZy" target="_blank">
@@ -13,11 +13,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/alan-specchio/" target="_blank">
-    <img src="https://img.shields.io/badge/Profile-LinkedIn-blueviolet?style=flat-square">
+    <img src="https://img.shields.io/badge/Profile-LinkedIn-%23bf3434?style=flat-square">
 </a>
 
 <a href="https://twitter.com/rightrice607" target="_blank">
-    <img src="https://img.shields.io/badge/Profile-Twitter-blueviolet?style=flat-square">
+    <img src="https://img.shields.io/badge/Profile-Twitter-%23bf3434?style=flat-square">
 </a>
 <a href="mailto:rightrice@proton.me">    
     <img src="https://img.shields.io/badge/Email-rightrice@proton.me-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white">
@@ -32,19 +32,19 @@
 
 <p align="center">
 <a href="https://ubuntu.com/" target="_blank">        
-    <img src="https://img.shields.io/badge/OS-Ubuntu%20Linux-blueviolet?style=flat-square&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/OS-Ubuntu%20Linux-%23bf3434?style=flat-square&logo=linux&logoColor=white">
 </a>    
 <a href="https://microsoft.com" target="_blank">          
-    <img src="https://img.shields.io/badge/OS-Windows%2011-blueviolet?style=flat-square&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/OS-Windows%2011-%23bf3434?style=flat-square&logo=windows&logoColor=white">
 </a>    
 <a href="https://code.visualstudio.com/" target="_blank">          
-    <img src="https://img.shields.io/badge/Editor-VSCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/Editor-VSCode-%23bf3434?style=flat-square&logo=visual-studio-code&logoColor=white">
 </a>
     
 <hr> 
 <p align="center">
 <a href="https://github.com/rightrice">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rightrice&hide=TeX&layout=compact&theme=aura">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rightrice&hide=TeX&layout=compact&theme=shadow_red">
 </a> 
     
 
