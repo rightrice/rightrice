@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Profile-Twitter-%23bf3434?style=flat-square">
 </a>
 <a href="mailto:rightrice@proton.me">    
-    <img src="https://img.shields.io/badge/Email-rightrice@proton.me-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-rightrice@proton.me-informational?style=flat-square&color=bf3434&logo=protonmail&logoColor=white">
 </a>
 
 
