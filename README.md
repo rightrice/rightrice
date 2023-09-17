@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/rightrice">
-    <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=aura">
+    <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=shadow_red">
 </a>
 <hr>
 <p align="center">
@@ -9,7 +9,7 @@
 </a> 
 
 <a href="https://drive.proton.me/urls/6ZSARGMMCC#3LOG1NT6QrZy" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-blueviolet?style=flat-square">
+    <img src="https://img.shields.io/badge/Resume-PDF-%23bf3434?style=flat-square">
 </a>
 
 <a href="https://www.linkedin.com/in/alan-specchio/" target="_blank">
