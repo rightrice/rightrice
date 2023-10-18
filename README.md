@@ -3,6 +3,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=shadow_red">
 </a>
 <hr>
+<p align="center">
 <a href="https://twitter.com/rightrice607" target="_blank">
     <img src="https://img.shields.io/badge/Profile-Twitter-%23bf3434?style=flat-square">
 </a>
