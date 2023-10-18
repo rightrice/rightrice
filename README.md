@@ -3,19 +3,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=shadow_red">
 </a>
 <hr>
-<p align="center">
-<a href="https://specchiocyber.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-specchiocyber.com-%23bf3434?style=flat-square">
-</a> 
-
-<a href="https://drive.proton.me/urls/6ZSARGMMCC#3LOG1NT6QrZy" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-%23bf3434?style=flat-square">
-</a>
-
-<a href="https://www.linkedin.com/in/alan-specchio/" target="_blank">
-    <img src="https://img.shields.io/badge/Profile-LinkedIn-%23bf3434?style=flat-square">
-</a>
-
 <a href="https://twitter.com/rightrice607" target="_blank">
     <img src="https://img.shields.io/badge/Profile-Twitter-%23bf3434?style=flat-square">
 </a>
