@@ -7,7 +7,7 @@
 <a href="https://github.com/rightrice/xpl0it" target="_blank">
     <img src="https://img.shields.io/badge/Current-Project-%23bf3434?style=flat-square">
 </a>
-<a href="https://twitter.com/rightrice607" target="_blank">
+<a href="https://twitter.com/rightrice_" target="_blank">
     <img src="https://img.shields.io/badge/Profile-Twitter-%23bf3434?style=flat-square">
 </a>
 <a href="mailto:rightrice@proton.me">    
