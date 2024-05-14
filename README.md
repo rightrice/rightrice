@@ -4,6 +4,9 @@
 </a>
 <hr>
 <p align="center">
+<a href="https://app.hackthebox.com/profile/1208707" target="_blank">
+    <img src="https://img.shields.io/badge/Hack The-Box-%23bf3434?style=flat-square">
+</a>
 <a href="https://github.com/rightrice/xpl0it" target="_blank">
     <img src="https://img.shields.io/badge/Current-Project-%23bf3434?style=flat-square">
 </a>
