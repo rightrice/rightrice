@@ -1,9 +1,4 @@
 <p align="center">
-<a href="https://github.com/rightrice">
-    <img src="https://github-readme-stats.vercel.app/api?username=rightrice&show_icons=true&theme=shadow_red">
-</a>
-<hr>
-<p align="center">
 <a href="https://app.hackthebox.com/profile/1208707" target="_blank">
     <img src="https://img.shields.io/badge/Hack-The Box-%23bf3434?style=flat-square">
 </a>
