@@ -7,7 +7,7 @@
 </a>
 
 - 👋 Hi, I’m @rightrice
-- 👀 I’m interested in cryptocurrency, jetskiing, and anything cybersecurity/coding related :)
+- 👀 I’m interested in anything cybersecurity/python coding related :)
 - 🌱 B.S in Cybersecurity at SUNY Canton College of Technology | Cum Laude
 - 💞️ I’m looking to collaborate on anything python related, or teaming up for HTB!
 - 📫 How to reach me: rightrice@proton.me
