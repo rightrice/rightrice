@@ -28,6 +28,24 @@
 <a href="https://github.com/rightrice">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rightrice&hide=TeX&layout=compact&theme=shadow_red">
 </a> 
+<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Kali Linux-%23b100cd?style=flat-square&logo=kali-linux&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-Burpsuite-%23b100cd?style=flat-square&logo=burpsuite&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-ZAProxy-%23b100cd?style=flat-square&logo=zaproxy&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-Metasploit-%23b100cd?style=flat-square&logo=metasploit&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-Splunk-%23b100cd?style=flat-square&logo=splunk&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-nmap-%23b100cd?style=flat-square&logo=nmap&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-Nessus-%23b100cd?style=flat-square&logo=nessus&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-Wazuh-%23b100cd?style=flat-square&logo=wazuh&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-aircrackng-%23b100cd?style=flat-square&logo=aircrackng&logoColor=white">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Language-Python-%23b100cd?style=flat-square&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Language-bin/bash-%23b100cd?style=flat-square&logo=bash&logoColor=white">
+    <img src="https://img.shields.io/badge/Language-C-%23b100cd?style=flat-square&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/Language-C++-%23b100cd?style=flat-square&logo=cplusplus&logoColor=white">
+</p>
     
 
 
