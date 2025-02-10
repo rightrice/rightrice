@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/PenTest-ZAProxy-%23b100cd?style=flat-square&logo=zaproxy&logoColor=white">
     <img src="https://img.shields.io/badge/PenTest-Metasploit-%23b100cd?style=flat-square&logo=metasploit&logoColor=white">
     <img src="https://img.shields.io/badge/PenTest-Splunk-%23b100cd?style=flat-square&logo=splunk&logoColor=white">
-    <img src="https://img.shields.io/badge/PenTest-nmap-%23b100cd?style=flat-square&logo=nmap&logoColor=white">
+    <img src="https://img.shields.io/badge/PenTest-nMap-%23b100cd?style=flat-square&logo=nmap&logoColor=white">
     <img src="https://img.shields.io/badge/PenTest-Nessus-%23b100cd?style=flat-square&logo=nessus&logoColor=white">
     <img src="https://img.shields.io/badge/PenTest-Wazuh-%23b100cd?style=flat-square&logo=wazuh&logoColor=white">
     <img src="https://img.shields.io/badge/PenTest-aircrackng-%23b100cd?style=flat-square&logo=aircrackng&logoColor=white">
